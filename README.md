@@ -1,4 +1,4 @@
 # shivamtech_demo
 this is my first repository.
 <br>
-Author-Shivam Singh
+Author-Shivam (tech)    
